@@ -1,0 +1,6 @@
+INSERT INTO public.ed_length_of_stay_by_acuity (acuity_level,patients,avg_ed_hours) VALUES
+	 ('Unknown',30,4.12),
+	 ('1',36,4.31),
+	 ('3',180,9.07),
+	 ('4',4,8.34),
+	 ('2',194,8.51);
