@@ -33,7 +33,7 @@ https://public.tableau.com/views/HospitalOperations_17849217157260/HospitalEDOpe
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard1.png)
 
 ## Key Findings
 
