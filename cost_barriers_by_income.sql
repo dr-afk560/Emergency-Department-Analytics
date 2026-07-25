@@ -1,0 +1,9 @@
+INSERT INTO public.cost_barriers_by_income (income_level,total_people,delayed_care_cost,cost_barrier_percentage) VALUES
+	 ('Lowest income',19066,3719,19.51),
+	 ('Low income',30931,5114,16.53),
+	 ('Lower-middle income',38357,5394,14.06),
+	 ('Middle income',47360,5252,11.09),
+	 ('Upper-middle income',106852,7453,6.98),
+	 ('High income',76572,2741,3.58),
+	 ('Highest income',26747,466,1.74),
+	 ('Unknown',85900,7059,8.22);

@@ -1,0 +1,9 @@
+INSERT INTO public.preventive_care_by_income (income_level,total_people,checkup_within_year,checkup_percentage) VALUES
+	 ('Lowest income',18550,15068,81.23),
+	 ('Low income',30252,25060,82.84),
+	 ('Lower-middle income',37716,30561,81.03),
+	 ('Middle income',46697,37853,81.06),
+	 ('Upper-middle income',105731,86530,81.84),
+	 ('High income',75966,62204,81.88),
+	 ('Highest income',26523,21433,80.81),
+	 ('Unknown',83360,69348,83.19);
